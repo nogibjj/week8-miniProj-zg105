@@ -9,7 +9,8 @@ import click
 def command_line(database):
     '''
         Hi, this is a command line tool to do some queries.
-        Give me your database name, I can create a user table and insert some users for you.
+        Give me your database name, I can create a user table 
+        and insert some users for you.
         Enjoy it :)
     '''
     conn = sqlite3.connect("database")
