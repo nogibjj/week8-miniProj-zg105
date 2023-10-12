@@ -25,7 +25,10 @@ This is a simple command-line tool for SQLite database operations. With it, you 
 
 ## Demo
 run python3 main.py zg105.db to start
+
 ![](pic1.png)
+
 ## User Guide
 run python3 main.py --help to see a user guide
+
 ![](pic2.png)
